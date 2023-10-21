@@ -1,0 +1,5 @@
+#*#
+mac
+.o
+*.dSYM/
+# .dSYM is a debug symbol file that is created when you compile your C program with the -g compiler flag.
